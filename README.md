@@ -1,2 +1,3 @@
-# hello-world
-Just a self-test
+hello world!
+Good morning professers.
+My name is chenyi.
